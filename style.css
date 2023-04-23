@@ -1,0 +1,83 @@
+.ng {
+  background-color: #333;
+  color: #ddd;
+  font-size: 2.2em;
+  box-shadow: 0 0 40px #ffa;
+  border-radius: 16px;
+}
+
+#startPlay{
+  background-color: #333 !important;
+  color: white;
+  font-size: 2.2em;
+  box-shadow: 0 0 30px green;
+  border-radius: 30px !important;
+}
+
+#recs{
+  background-color: #333 !important;
+  color: white;
+  font-size: 2.2em;
+  box-shadow: 0 0 30px yellow;
+  border-radius: 30px !important;
+}
+
+#ns{
+  background-color: #333 !important;
+  color: #ddd;
+  font-size: 2.2em;
+  box-shadow: 0 0 30px cyan;
+  border-radius: 30px !important;
+}
+
+#pocitions h1 {
+  padding: 10px;
+  background-color: #333;
+  color: #ddd;
+  font-size: 2.2em;
+  box-shadow: 0 0 20px #4f9;
+  border-radius: 16px;
+}
+
+#pocitions h1 span {
+  color: #ddd;
+}
+
+body {
+  background-color: #444;
+  font-family: trebuchet ms;
+  
+}
+
+h1 {
+  color: #ffa;
+  text-shadow: 0 0 30px #fff;
+}
+
+
+.scores {
+  color: #ffa;
+  text-shadow: 0 0 30px #fff;
+  font-size: 1.2em;
+}
+
+
+.highScores {
+  background-color: #444;
+  font-family: trebuchet ms;
+}
+
+
+input {
+  font-size: 1.1em;
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 8px;
+  width: 400px;
+  box-shadow: 0 0 20px #ddd;
+}
+
+img{
+  width: 30px;
+  height: 50px;
+}
